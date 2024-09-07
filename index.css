@@ -1,0 +1,28 @@
+h1 {
+color: deepskyblue;
+font-size: 70px;
+text-align: center;
+}
+h2 {
+    color: rgb(36, 128, 220);
+    font-size: 50px;
+    text-align: center;
+    }
+
+ h3 {
+        color: rgb(64, 36, 220);
+        font-size: 40px;
+        text-align: center;
+        }
+
+ h4 {
+            color: rgb(106, 128, 129);
+            font-size: 30px;
+            text-align: center;
+            }
+
+ h5 {
+                color: rgb(175, 81, 81);
+                font-size: 50px;
+                text-align: center;
+                }
